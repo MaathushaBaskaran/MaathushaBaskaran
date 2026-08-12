@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/IIT-UNIVERSITY_OF_WESTMINSTER-5C2D91?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="IIT" />
   <img src="https://img.shields.io/badge/TARGET-FIRST_CLASS_HONOURS-FF69B4?style=for-the-badge&logo=target&logoColor=white" alt="Target" />
-  <img src="https://img.shields.io/badge/SEEKING-PM_&_SE_&_PM-00BFFF?style=for-the-badge&logo=search&logoColor=white" alt="Seeking" />
+  <img src="https://img.shields.io/badge/SEEKING-PM_&_SE_-00BFFF?style=for-the-badge&logo=search&logoColor=white" alt="Seeking" />
 </div>
 
 <br>
