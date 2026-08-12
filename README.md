@@ -1,27 +1,19 @@
 <div align="center">
   <h1>Maathusha Baskaran</h1>
-  <p>Computer Science Student | Backend Developer | Full-Stack & DevOps</p>
+  <p>Computer Science Undergraduate | Backend & Full-Stack Developer | Open to PM Roles</p>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/IIT-UNIVERSITY_OF_WESTMINSTER-blue?style=for-the-badge&logo=graduation-cap" />
   <img src="https://img.shields.io/badge/TARGET-BSc_COMPUTER_SCIENCE-pink?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/SEEKING-BACKEND_&_DEVOPS_ROLES-cyan?style=for-the-badge&logo=search" />
+  <img src="https://img.shields.io/badge/SEEKING-BACKEND,_DEVOPS_&_PM-cyan?style=for-the-badge&logo=search" />
 </div>
 
 <br>
 
 ## 👩‍💻 About Me
 
-<details>
-<summary>🌟 Click to read more</summary>
-<br>
-
-I'm a **Computer Science student** in IIT (University of Westminster), driven by a passion for programming, problem-solving, and technology[cite: 1]. 
-
-As a dedicated backend developer, I focus on building robust server-side architectures, full-stack applications, and implementing DevOps practices. I am always looking to expand my knowledge and skills in the Tech Industry, and I am willing to learn, collaborate, and explore new tech trends to grow[cite: 1].
-
-</details>
+I am a **Computer Science Undergraduate** at IIT (University of Westminster), specializing in backend engineering, full-stack development, and DevOps methodologies[cite: 1]. Alongside my technical foundation in building robust server-side architectures and responsive applications, I am actively **open to Project Management (PM) opportunities**. I am driven by the intersection of technical problem-solving and structured project delivery, eager to collaborate with cross-functional teams to drive innovative technology solutions from conception to deployment[cite: 1].
 
 <br>
 
@@ -62,7 +54,7 @@ An AI-powered platform to centralize budgeting, vendor sourcing, and real-time a
 * Conceptualized an AI-powered platform to centralize budgeting, vendor sourcing, and real-time analytics for university societies[cite: 1].
 * Designed a QR-based registration system and an AI recommendation engine for automated vendor and venue selection[cite: 1].
 * Architected role-based dashboards with trilingual support (English/Sinhala/Tamil) to streamline logistics and finance[cite: 1].
-* **Tech Stack:** React.js, Node.js (NestJS), PostgreSQL, Python (AI/ML)[cite: 1].
+* **Tech Stack:** React.js, Node.js (NestJS), PostgreSQL, Python (AI/ML)[cite: 1]
 </details>
 
 <details>
@@ -72,7 +64,7 @@ An AI-powered platform to centralize budgeting, vendor sourcing, and real-time a
 A responsive property search engine featuring multi-criteria filtering and a custom interactive gallery[cite: 1].
 * Implemented persistent data handling using Local Storage and enhanced UX with Drag & Drop functionality[cite: 1].
 * Integrated security best practices, including JSX encoding to prevent XSS and adhering to CSP standards[cite: 1].
-* **Tech Stack:** React, Vite, CSS3, Local Storage[cite: 1].
+* **Tech Stack:** React, Vite, CSS3, Local Storage[cite: 1]
 </details>
 
 <br>
