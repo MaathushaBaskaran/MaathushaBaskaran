@@ -1,19 +1,21 @@
 <div align="center">
-  <h1>Maathusha Baskaran</h1>
-  <p>Computer Science Undergraduate | Backend & Full-Stack Developer | Open to PM Roles</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=B084CC&center=true&vCenter=true&width=500&lines=Maathusha+Baskaran" alt="Maathusha Baskaran" />
+  <h3>Backend ✦ Full-Stack ✦ DevOps</h3>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/IIT-UNIVERSITY_OF_WESTMINSTER-blue?style=for-the-badge&logo=graduation-cap" />
-  <img src="https://img.shields.io/badge/TARGET-BSc_COMPUTER_SCIENCE-pink?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/SEEKING-BACKEND,_DEVOPS_&_PM-cyan?style=for-the-badge&logo=search" />
+  <img src="https://img.shields.io/badge/IIT-UNIVERSITY_OF_WESTMINSTER-5C2D91?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="IIT" />
+  <img src="https://img.shields.io/badge/TARGET-FIRST_CLASS_HONOURS-FF69B4?style=for-the-badge&logo=target&logoColor=white" alt="Target" />
+  <img src="https://img.shields.io/badge/SEEKING-PM_&_BACKEND-00BFFF?style=for-the-badge&logo=search&logoColor=white" alt="Seeking" />
 </div>
 
 <br>
 
 ## 👩‍💻 About Me
 
-I am a **Computer Science Undergraduate** at IIT (University of Westminster), specializing in backend engineering, full-stack development, and DevOps methodologies[cite: 1]. Alongside my technical foundation in building robust server-side architectures and responsive applications, I am actively **open to Project Management (PM) opportunities**. I am driven by the intersection of technical problem-solving and structured project delivery, eager to collaborate with cross-functional teams to drive innovative technology solutions from conception to deployment[cite: 1].
+I'm a **Computer Science Undergraduate** at IIT (affiliated with the University of Westminster), sitting at the intersection of technical depth and structured delivery[cite: 1].
+
+I don't just build software—I coordinate the logic behind it. My background spans backend engineering, full-stack development, and DevOps methodologies[cite: 1]. I am actively open to **Project Management (PM)** opportunities where I can put structured thinking, cross-functional collaboration, and technical architecture to work in a professional environment[cite: 1].
 
 <br>
 
@@ -23,23 +25,14 @@ I am a **Computer Science Undergraduate** at IIT (University of Westminster), sp
 <summary>💻 Languages & Frameworks</summary>
 <br>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
 </details>
 
 <details>
-<summary>🗄️ Databases & Tools</summary>
+<summary>🗄️ Databases & Version Control</summary>
 <br>
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </details>
 
 <br>
@@ -47,24 +40,29 @@ I am a **Computer Science Undergraduate** at IIT (University of Westminster), sp
 ## 🚀 Projects
 
 <details>
-<summary>🎓 EventLK — Smart Event Ecosystem</summary>
+<summary>🎓 EventLK — Smart Event Ecosystem (Jan 2025 – Present)</summary>
 <br>
 
 An AI-powered platform to centralize budgeting, vendor sourcing, and real-time analytics for university societies[cite: 1].
+
 * Conceptualized an AI-powered platform to centralize budgeting, vendor sourcing, and real-time analytics for university societies[cite: 1].
 * Designed a QR-based registration system and an AI recommendation engine for automated vendor and venue selection[cite: 1].
 * Architected role-based dashboards with trilingual support (English/Sinhala/Tamil) to streamline logistics and finance[cite: 1].
-* **Tech Stack:** React.js, Node.js (NestJS), PostgreSQL, Python (AI/ML)[cite: 1]
+
+<img src="https://img.shields.io/badge/REACT.JS-FF69B4?style=for-the-badge" /> <img src="https://img.shields.io/badge/NODE.JS_(NESTJS)-5C2D91?style=for-the-badge" /> <img src="https://img.shields.io/badge/POSTGRESQL-00BFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/PYTHON_(AI/ML)-43853D?style=for-the-badge" />
 </details>
 
 <details>
-<summary>🏠 Simply Home — Real Estate Application</summary>
+<summary>🏠 Simply Home — Real Estate Application (May 2024)</summary>
 <br>
 
 A responsive property search engine featuring multi-criteria filtering and a custom interactive gallery[cite: 1].
+
+* Developed a responsive property search engine featuring multi-criteria filtering and a custom interactive gallery[cite: 1].
 * Implemented persistent data handling using Local Storage and enhanced UX with Drag & Drop functionality[cite: 1].
 * Integrated security best practices, including JSX encoding to prevent XSS and adhering to CSP standards[cite: 1].
-* **Tech Stack:** React, Vite, CSS3, Local Storage[cite: 1]
+
+<img src="https://img.shields.io/badge/REACT-FF69B4?style=for-the-badge" /> <img src="https://img.shields.io/badge/VITE-5C2D91?style=for-the-badge" /> <img src="https://img.shields.io/badge/CSS3-00BFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/LOCAL_STORAGE-43853D?style=for-the-badge" />
 </details>
 
 <br>
@@ -75,26 +73,24 @@ A responsive property search engine featuring multi-criteria filtering and a cus
 <summary>💼 Click to expand experience</summary>
 <br>
 
-**Deloitte (via Forage) | Data Analytics Job Simulation**
-* Selected for a high-intensity simulation focusing on real-world data challenges for the client, Daikibo[cite: 1].
-* Developed interactive dashboards using Tableau to identify operational inefficiencies and market trends[cite: 1].
-* Translated complex datasets into actionable business insights, focusing on supply chain optimization and ROI forecasting[cite: 1].
+| Role / Simulation | Organization | Date |
+| :--- | :--- | :--- |
+| 🟣 **Data Analytics Job Simulation** | Deloitte (via Forage) | March 2026 |
+| 🔵 **AI Agents Intensive Capstone** | Google x Kaggle | Dec 2025 |
 
-**Google x Kaggle | AI Agents Intensive Capstone**
-* Participated in a record-breaking global intensive alongside 1.5 million learners, mentored by Google AI experts[cite: 1].
-* Architected and deployed an autonomous AI Agent system using Generative AI and Large Language Models (LLMs)[cite: 1].
 </details>
 
 <br>
 
-## 🏆 Leadership & Global Experience
+## 🏆 Achievements & Leadership
 
 <details>
-<summary>🌍 Click to expand leadership</summary>
+<summary>✨ Click to expand achievements</summary>
 <br>
 
-* **Neoteric Summit, Dubai (Elected Delegate):** Selected to represent Sri Lanka at an international summit focused on Innovation and Leadership, collaborating with global youth leaders to discuss the future of AI policy and digital transformation[cite: 1].
-* **International Model United Nations (Ambassador Intern):** Completed a 5-week intensive program focused on Digital Diplomacy and global outreach, serving as the Delegate of China in the UNESCO committee to advocate for Women's Rights and education[cite: 1].
+* 🌍 **Elected Delegate** — Neoteric Summit, Dubai (Nov 2026)[cite: 1]
+* 🕊️ **Ambassador Intern (Delegate of China)** — International Model United Nations (IMUN) (Nov 2025)[cite: 1]
+
 </details>
 
 <br>
@@ -103,9 +99,9 @@ A responsive property search engine featuring multi-criteria filtering and a cus
 
 <div align="center">
   <a href="mailto:maathushabaskaran@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-maathushabaskaran@gmail.com-pink?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-maathushabaskaran@gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/maathushabaskaran/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-5C2D91?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
