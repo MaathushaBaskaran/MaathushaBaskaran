@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science Undergraduate** at IIT (affiliated with the University of Westminster), sitting at the intersection of technical depth and structured delivery[cite: 1].
+I am a **Computer Science Undergraduate** at IIT (affiliated with the University of Westminster), sitting at the intersection of technical depth and structured delivery[cite: 1].
 
 I don't just build software—I coordinate the logic behind it. My background spans backend engineering, full-stack development, and DevOps methodologies[cite: 1]. I am actively open to **Project Management (PM)** opportunities where I can put structured thinking, cross-functional collaboration, and technical architecture to work in a professional environment[cite: 1].
 
@@ -40,43 +40,64 @@ I don't just build software—I coordinate the logic behind it. My background sp
 ## 🚀 Projects
 
 <details>
-<summary>🎓 EventLK — Smart Event Ecosystem (Jan 2025 – Present)</summary>
+<summary>🎓 EventLK — Smart Event Planning for University Clubs & Societies (2025 – 2026)</summary>
 <br>
 
-An AI-powered platform to centralize budgeting, vendor sourcing, and real-time analytics for university societies[cite: 1].
+A university-grade event management platform built for clubs and societies, with an AI workstream.
 
-* Conceptualized an AI-powered platform to centralize budgeting, vendor sourcing, and real-time analytics for university societies[cite: 1].
-* Designed a QR-based registration system and an AI recommendation engine for automated vendor and venue selection[cite: 1].
-* Architected role-based dashboards with trilingual support (English/Sinhala/Tamil) to streamline logistics and finance[cite: 1].
+* Led sprint planning and cross-functional coordination for a **6-person team** across Frontend, Backend, and AI workstreams using ClickUp (Kanban boards + Gantt timelines)
+* Designed backend architecture with **NestJS + Node.js**, built the **PostgreSQL schema**, and developed REST APIs for core event features
+* Architected **Role-Based Access Control** (RBAC) to enforce access restrictions on confidential committee documents
+* Contributed to the team's **risk register**, identifying and mitigating data integration and resourcing risks
+* Co-authored the **technology evaluation & literature review**, comparing frameworks to justify the final stack
 
-<img src="https://img.shields.io/badge/REACT.JS-FF69B4?style=for-the-badge" /> <img src="https://img.shields.io/badge/NODE.JS_(NESTJS)-5C2D91?style=for-the-badge" /> <img src="https://img.shields.io/badge/POSTGRESQL-00BFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/PYTHON_(AI/ML)-43853D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NESTJS-FF69B4?style=for-the-badge" /> <img src="https://img.shields.io/badge/NODE.JS-5C2D91?style=for-the-badge" /> <img src="https://img.shields.io/badge/POSTGRESQL-00BFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/REST_APIS-FF69B4?style=for-the-badge" /> <img src="https://img.shields.io/badge/AGILE/SCRUM-5C2D91?style=for-the-badge" /> <img src="https://img.shields.io/badge/RBAC-00BFFF?style=for-the-badge" />
 </details>
 
 <details>
-<summary>🏠 Simply Home — Real Estate Application (May 2024)</summary>
+<summary>🏠 Simply Home — Real Estate Web Application (2025)</summary>
 <br>
 
-A responsive property search engine featuring multi-criteria filtering and a custom interactive gallery[cite: 1].
+A full-featured real estate platform, independently planned and delivered end-to-end.
 
-* Developed a responsive property search engine featuring multi-criteria filtering and a custom interactive gallery[cite: 1].
-* Implemented persistent data handling using Local Storage and enhanced UX with Drag & Drop functionality[cite: 1].
-* Integrated security best practices, including JSX encoding to prevent XSS and adhering to CSP standards[cite: 1].
+* Managed the **entire project lifecycle** solo — from requirements gathering through to deployment — without external direction
+* Built a multi-criteria search engine with interactive gallery features, improving user engagement by **70%**
+* Proactively implemented **XSS prevention** via JSX encoding and CSP standards — identifying security risks before they became issues
 
-<img src="https://img.shields.io/badge/REACT-FF69B4?style=for-the-badge" /> <img src="https://img.shields.io/badge/VITE-5C2D91?style=for-the-badge" /> <img src="https://img.shields.io/badge/CSS3-00BFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/LOCAL_STORAGE-43853D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REACT-FF69B4?style=for-the-badge" /> <img src="https://img.shields.io/badge/VITE-5C2D91?style=for-the-badge" /> <img src="https://img.shields.io/badge/JAVASCRIPT-00BFFF?style=for-the-badge" /> <img src="https://img.shields.io/badge/SECURITY_(XSS/CSP)-FF69B4?style=for-the-badge" /> <img src="https://img.shields.io/badge/SOLO_PROJECT_DELIVERY-5C2D91?style=for-the-badge" />
 </details>
 
 <br>
 
-## 📜 Experience & Simulations
+## 📜 Certifications
 
 <details>
-<summary>💼 Click to expand experience</summary>
+<summary>🎓 Click to expand certifications</summary>
+<br>
+
+| Certification | Issuer | Year |
+| :--- | :--- | :--- |
+| 🟣 **Google Project Management Professional Certificate** *(In Progress)* | Coursera – Google | 2026 |
+| 💗 **Agile Explorer** | IBM SkillsBuild | 2026 |
+| 🔵 **Scrum Fundamentals Certified (SFC)** | ScrumStudy | 2026 |
+| 🟣 **Generative AI Overview for Project Managers** | PMI | 2026 |
+| 💗 **Fundamentals of Predictive Project Management** | PMI | 2026 |
+| 🔵 **Fundamentals of Agile Project Management** | PMI | 2026 |
+
+</details>
+
+<br>
+
+## 💼 Experience & Simulations
+
+<details>
+<summary>🏢 Click to expand experience</summary>
 <br>
 
 | Role / Simulation | Organization | Date |
 | :--- | :--- | :--- |
-| 🟣 **Data Analytics Job Simulation** | Deloitte (via Forage) | March 2026 |
-| 🔵 **AI Agents Intensive Capstone** | Google x Kaggle | Dec 2025 |
+| 🟣 **Data Analytics Job Simulation** | Deloitte (via Forage)[cite: 1] | March 2026[cite: 1] |
+| 🔵 **AI Agents Intensive Capstone** | Google x Kaggle[cite: 1] | Dec 2025[cite: 1] |
 
 </details>
 
